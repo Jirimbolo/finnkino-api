@@ -1,0 +1,8 @@
+Tein projektin Finnkinon APIa hyödyntäen.
+
+Sovelluksessa voi listalta klikkaamalla katsoa päivän elokuvat, teatterin ja salin. 
+
+Antaisin itselleni ehkä 25 pistettä sillä sovelluksessani ei esimerkiksi ole elokuvien esittelyä (tämä toisaalta helppo lisätä halutessa) tai tekstihakukenttää elokuville. Koodi on kuitenkin toimivaa ja hyvää. Ulkoasukin on ihan näppärä.
+
+Ystävällisin terveisin
+Jiri Hyvönen
